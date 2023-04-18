@@ -1,3 +1,6 @@
+##VSCODE
+.vscode
+
 *.suo
 *.user
 _ReSharper.*
